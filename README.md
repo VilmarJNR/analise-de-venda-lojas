@@ -46,7 +46,7 @@ A loja recomendada para venda é a **Loja 4**, por apresentar:
 
 ---
 
-### 📌 Autora
+### 📌 Autor
 
 
 Desenvolvido por **[Vilmar Vasconcelos]**  
