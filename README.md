@@ -4,7 +4,6 @@ Desafio: Análise de Vendas e Desempenho de Lojas...
 
 Problema a ser Analisado: Sr. João é proprietário de 4 lojas do varejo, e pediu para a equipe de Data Science, que elaborasse um relatório das 4 lojas, trazendo informações de qual loja seria a menos eficiente, para que ele pudesse tomar a decisão de vender a loja menos eficiente com base nos dados
 
-Este projeto realiza uma análise exploratória e estatística de dados de quatro lojas diferentes com base em um desafio de Data Science do Programa de Formação em Data Science Oracle One Alura. Utilizando Python e bibliotecas como `pandas` e `matplotlib`, extraímos insights valiosos sobre vendas, avaliações, frete e produtos mais/menos vendidos.
 ---
 
 ### 🔍 Objetivos da Análise
