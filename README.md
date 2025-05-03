@@ -15,7 +15,6 @@ Problema a ser Analisado: Sr. João é proprietário de 4 lojas do varejo, e ped
   - ⭐ Média das avaliações dos clientes  
   - 🔥 Produtos mais e menos vendidos  
   - 🚚 Frete médio por loja
-  - ### 3. 📈 Visualizações e Insights
     
 ---
 
